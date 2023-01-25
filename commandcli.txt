@@ -1,0 +1,98 @@
+    1  sudo apt list --upgradable
+    2  sudo apt-get update
+    3  sudo apt-get upgrade
+    4  python3
+    5  python3.9
+    6  sudo apt install python3.9
+    7  python3.9
+    8  python3
+    9  sudo apt install distutils
+   10  sudo apt install software-properties-common 
+   11  python3.9 --version
+   12  sudo add-apt-repository ppa:deadsnakes/ppa
+   13  sudo apt install python3.9
+   14  python3.9 --version
+   15  python3.9 -m venv p39-venv
+   16  sudo apt install python3-distutils -y
+   17  python3.9 -m venv p39-venv
+   18  py --version
+   19  sudo apt install python3.9-distutils -y
+   20  python3
+   21  which python3
+   22  python3 --version
+   23  which python3.8
+   24  which python3.9
+   25  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9.15
+   26  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 1
+   27  python3 --version
+   28  sudo update-alternatives --config python3
+   29  python3.9 -m venv p39-venv
+   30  sudo apt install python3.9-distutils -y
+   31  sudo apt install python3-distutils -y
+   32  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 2
+   33  sudo update-alternatives --config python3
+   34  ls -alith /usr/bin/python3
+   35  python3 -V
+   36  ls -alith /usr/bin/pip3
+   37  sudo ls -alith /usr/bin/pip3
+   38  pip3 -V
+   39  pip3 --version
+   40  pip --version
+   41  sudo ls -alith /usr/bin/pip3
+   42  which pip
+   43  python3 -V
+   44  sudo apt install python3-distutils -y
+   45  sudo apt remove python3-distutils -y
+   46  sudo apt-get update
+   47  sudo apt install python3-distutils -y
+   48  python3-distutils --version
+   49  python3.8-distutils --version
+   50  clear
+   51  sudo python3 -m venv p3-venv
+   52  sudo python3.9 -m venv p3-venv
+   53  sudo apt-get install python3-venv
+   54  sudo python3.9 -m venv p3-venv
+   55  sudo apt remove python3-venv
+   56  sudo apt remove python3-distutils -y
+   57  sudo apt-get update
+   58  history >> command.txt
+   59  ls -lrt
+   60  sudo reboot
+   61  sudo reboot now
+   62  sudo halt -H
+   63  sudo halt
+   64  exit
+   65  ls -lrt
+   66  python
+   67  python3.9
+   68  python3.9 -m venv paws-venv
+   69  source paws-venv/bin/activate
+   70  deactivate
+   71  mkdir aws-data-pipeline
+   72  source /home/hfenelsoftllc/aws-data-pipeline/paws-venv/bin/activate
+   73  git config --global hfenelsoftllc@gmail.com
+   74  git config --global 'hfenelsoftllc@gmail.com'
+   75  git config --global user.name='hfenelsoftllc@gmail.com'
+   76  git config --global user.name='hfenelsoftllc'
+   77  git config --global user.name 'hfenelsoftllc'
+   78  git config --global user.email 'hfenelsoftllc@gmail.com'
+   79  git config --get-all user.name
+   80  git config --get-all user.email
+   81  git ls-files --stage -- /home/hfenelsoftllc/aws-data-pipeline/.gitignore
+   82  git status
+   83  pwd
+   84  git init
+   85  git status
+   86  git add . && git commit -m "Initial commit"
+   87  git status
+   88  git remote --verbose
+   89  git show --textconv
+   90  python
+   91  clear
+   92  git status
+   93  git add . && git commit -m "manage s3 with boto3"
+   94  aws dynamodb ls
+   95  aws dynamodb list-tables
+   96  aws dynamodb create-table jobs
+   97  aws dynamodb create-table help
+   98  history >> commandcli.txt
